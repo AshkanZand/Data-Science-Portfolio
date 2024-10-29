@@ -9,7 +9,8 @@ This portfolio showcases all my Data Science and Data Analysis projects, created
 <img align="left" width=30% src="https://github.com/AshkanZand/Data-Science-Portfolio/blob/main/images/hbn.png?raw=true"> **[The h-bn defects database]()**
 
 In this project, I developed an interactive web application ([h-bn.info](h-bn.info)) based on GitHub as a database and a dashboard for the photophysical properties of defects in hexagonal boron nitride (hBN).
-<b>Article:</b> [Chanaprom Cholsuk, Ashkan Zand, Asli Cakan, Tobias Vogl, "The hBN defects database: a theoretical compilation of color centers in hexagonal boron nitride." The Journal of Physical Chemistry C, 2024, 128 (30), 12716.](https://doi.org/10.1021/acs.jpcc.4c03404)
+
+<b>Article:</b> ["The hBN defects database: a theoretical compilation of color centers in hexagonal boron nitride."](https://doi.org/10.1021/acs.jpcc.4c03404)
 #
 
 ## Core Competencies
