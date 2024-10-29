@@ -14,7 +14,7 @@ In this project, I developed an interactive web application ([h-bn.info](h-bn.in
 
 #
 
-<img align="left" width="150" height="150" src="https://github.com/AshkanZand/Data-Science-Portfolio/blob/main/images/housePrice.png?raw=true"> **[House Prices]()**
+<img align="left" width="250" height="150" src="https://github.com/AshkanZand/Data-Science-Portfolio/blob/main/images/housePrice.png?raw=true"> **[House Prices]()**
 
 The goal of this project is to predict the sale price of a house consideirng different features.
 #
