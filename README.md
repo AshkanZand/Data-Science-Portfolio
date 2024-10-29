@@ -11,7 +11,10 @@ This portfolio showcases all my Data Science and Data Analysis projects, created
 In this project, I developed an interactive web application ([h-bn.info](h-bn.info)) based on GitHub as a database and a dashboard for the photophysical properties of defects in hexagonal boron nitride (hBN).
 
 <b>Article:</b> ["The hBN defects database: a theoretical compilation of color centers in hexagonal boron nitride."](https://doi.org/10.1021/acs.jpcc.4c03404)
+
 #
+
+<img align="left" width="250" height="150" src="https://github.com/AshkanZand/Data-Science-Portfolio/blob/main/images/housePrice.png?raw=true"> **[The h-bn defects database]()**
 
 ## Core Competencies
 * <b>Languages:</b>  Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib)
