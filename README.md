@@ -7,7 +7,7 @@ This portfolio showcases all my Data Science and Data Analysis projects, created
 ## Projects
 
 ## Core Competencies
-* Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib)
+* <b>Languages:</b>  Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib)
 * SQL
 
 ## Certificates
