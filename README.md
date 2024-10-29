@@ -20,9 +20,11 @@ The goal of this project is to predict the sale price of a house consideirng dif
 #
 
 ## Core Competencies
+
 * <b>Languages:</b>  Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib)
 * SQL
 
 ## Certificates
+
 * IBM Data Science Professional Certificate
   
